@@ -1,5 +1,0 @@
-{{#user}}
-Name: Tanmay Mishra
-Skills: Programming Language: C/C++, Java, Python, Web Application Servers: NodeJs, PHP, Database: MySQL, MongoDB
-Email: tanmaymishra1551@gmail.com
-{{/user}}
